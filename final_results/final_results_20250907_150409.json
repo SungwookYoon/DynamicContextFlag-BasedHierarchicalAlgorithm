@@ -1,0 +1,16 @@
+{
+  "high_threshold_experiment": {
+    "0.85": {
+      "error": "operands could not be broadcast together with shapes (191,12) (191,10) "
+    },
+    "0.9": {
+      "error": "operands could not be broadcast together with shapes (191,12) (191,10) "
+    },
+    "0.95": {
+      "error": "operands could not be broadcast together with shapes (191,12) (191,10) "
+    },
+    "0.98": {
+      "error": "operands could not be broadcast together with shapes (191,12) (191,10) "
+    }
+  }
+}
